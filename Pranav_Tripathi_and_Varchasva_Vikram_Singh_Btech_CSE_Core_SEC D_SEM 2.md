@@ -18,7 +18,7 @@ A simple front-end tool that scans pasted job-offer emails for red-flag keywords
 
 ## 🔗 Repository
 
-https://github.com/ssstrangerx/miniProject_fakejob-analyze.git
+https://github.com/ssstrangerx/miniProject_fakejob-analyzer.git
 
 ## 💪 Team Members
 
