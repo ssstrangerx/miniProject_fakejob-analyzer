@@ -54,7 +54,7 @@ This project provides a quick, in-browser way to vet job offer emails for common
 ### Installation
 
 ```bash
-git clone https://github.com/ssstrangerx/miniProject_fakejob-analyze.git
+git clone https://github.com/ssstrangerx/miniProject_fakejob-analyzer.git
 ```
 
 Open `fakejobanalyzer.html` in your browser.
